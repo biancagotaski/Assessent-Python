@@ -1,3 +1,7 @@
+# Dado um vetor A de tamanho N com apenas números inteiros positivos, 
+# calcule o fatorial de cada um deles e armazene o resultado em um vetor B.
+# Desenvolva o programa usando o módulo multiprocessing com 4 processos
+
 import time, multiprocessing, psutil
 
 vector_a = []

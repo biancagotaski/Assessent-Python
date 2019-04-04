@@ -1,3 +1,7 @@
+# Dado um vetor A de tamanho N com apenas números inteiros positivos, 
+# calcule o fatorial de cada um deles e armazene o resultado em um vetor B.
+# Desenvolva o programa usando o módulo threading com 4 threads
+
 import time, threading, psutil
 
 vector_a = []
